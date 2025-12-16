@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Laptop",
+        "price": 123.423,
+        "Info": "Nvidia Rtx 4070"
+    },
+    {
+        "name": "Washing Machine",
+        "price": 12.232,
+        "info": "Samsung washing machine."
+    }
+]
