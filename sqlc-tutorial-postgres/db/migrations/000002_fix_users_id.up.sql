@@ -1,0 +1,8 @@
+
+DROP TABLE IF EXISTS "User";
+
+CREATE TABLE users (
+    id BIGSERIAL PRIMARY KEY,
+    name VARCHAR(40) NOT NULL,
+    dob DATE
+);
